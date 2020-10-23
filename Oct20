@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://tivimateplaylists.live/epg"
+#EXTM3U
+#EXTINF:-1  tvg-id="id" group-title="join our telegram group @tivimateplaylists " tvg-logo="https://previews.123rf.com/images/6kor3dos/6kor3dos1207/6kor3dos120700008/14383324-3d-person-with-megaphone-is-behind-info-letters.jpg",support our telegram group @tivimateplaylists
+https://rebrand.ly/tvide
+
+
+#EXTINF:-1  tvg-id="id" group-title="Sports @tivimateplaylists" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png",Astro Cricket
+http://webo.asia/b3:d7:3b:f1:78:17/twrpIAsO4d/57513
+#EXTINF:-1  tvg-id="N/A" group-title="Sports @tivimateplaylists" tvg-logo="https://www.logolynx.com/images/logolynx/s_ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 FHD 50FPS
+https://dx4.gcdn.co/UKS1759/index.m3u8
+#EXTINF:-1  tvg-id="id" group-title="Sports @tivimateplaylists" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket s1
+http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/753
+
+#EXTINF:-1  tvg-id="1108" group-title="Sports @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi
+http://webo.asia/b3:d7:3b:f1:78:17/twrpIAsO4d/16906
+
+#EXTINF:-1  tvg-id="1106" group-title="Sports @tivimateplaylists" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1
+http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/661
+
+#EXTINF:-1  tvg-id="1109" group-title="Sports @tivimateplaylists" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2
+http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/200
+
+
