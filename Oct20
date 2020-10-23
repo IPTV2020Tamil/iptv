@@ -22,10 +22,10 @@ http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/200
 
 
 #EXTINF:-1  tvg-id="628" group-title="Tamil @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
-http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=out/v1/d6f47c41936a41ac958254ab9cfc2d2f
+tracks-v2a1/exp=1603529571~acl=%2f*~data=hdntl~hmac=f8b034c616adedd17accd0c95bced04550a0c9cd56b664d3b6bc2c12893ff299/mono.m3u8
 
 #EXTINF:-1  tvg-id="0-9-224" group-title="Tamil @tivimateplaylists" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png",Zee Thirai
-http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=out/v1/48fbba85dc7643df9a97fbf6c30cf6a3
+tracks-v2a1/exp=1603529955~acl=%2f*~data=hdntl~hmac=ae397a38d3342b4cb9b8225f6026dbdc3254925a32722a05e6fdba123ebdc28f/mono.m3u8
 
 #EXTINF:-1  tvg-id="368" group-title="Tamil @tivimateplaylists" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",Star Vijay HD
 http://webo.asia/b3:d7:3b:f1:78:17/twrpIAsO4d/8536
